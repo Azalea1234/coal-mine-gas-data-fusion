@@ -1,5 +1,6 @@
 # coal-mine-gas-data-fusion
 Code for undergraduate thesis:Research on Characteristics and Fusion Methods of Multi-source Heterogeneous Data for Coal Mine  Disasters
+
 本仓库为本科毕业论文《煤矿瓦斯灾害多源异构数据特征及融合方法研究》的配套 Python 代码。
 
 ## 代码结构
