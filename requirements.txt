@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+scikit-learn
+matplotlib
+openpyxl
+joblib
+scipy
+python-docx
+ezdxf
